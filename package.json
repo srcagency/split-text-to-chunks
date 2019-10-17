@@ -2,7 +2,7 @@
 	"name": "split-text-to-chunks",
 	"description": "Split a text string to chunks for e.g. word wrapping",
 	"version": "1.0.0",
-	"repository": "srcagency/wrap-words",
+	"repository": "srcagency/split-text-to-chunks",
 	"bin": {
 		"wordwrap": "cli.js"
 	},
